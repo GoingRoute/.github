@@ -14,4 +14,7 @@
 | trip-spring-boot-in-memory-db-app   | app        | [trip-spring-boot-in-memory-db-app](https://github.com/GoingRoute/trip-spring-boot-in-memory-db-app) |
 
 ## Old Version(multi-project build)
-[trip](https://github.com/GoingRoute/trip) 
+
+| Project                             | Type       | Link                                |
+|-------------------------------------|------------|-------------------------------------|
+| trip                           | multi-project build with core, several app and plugins together | [trip](https://github.com/GoingRoute/trip)      |
