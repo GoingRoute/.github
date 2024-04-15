@@ -1,20 +1,27 @@
-## Hi there 👋
+# Going Route 
 
-🙋‍♀️ Please find below Goingroute Project available
+## Welcome to our repositories Overview👋
 
-# Trip Projects
+🙋‍♀️ Please find below all our Goingroute Projects and its repositories available
 
-| Project                             | Type       | Link                                |
-|-------------------------------------|------------|-------------------------------------|
-| trip-core                           | core-lib   | [trip-core](https://github.com/GoingRoute/trip-core)     |
-| trip-persistence-mongo-db           | plugin     | [trip-persistence-mongo-db](https://github.com/GoingRoute/trip-persistence-mongo-db)   |
-| trip-persistence-in-memory-db       | plugin     | [trip-persistence-in-memory-db](https://github.com/GoingRoute/trip-persistence-in-memory-db) |
-| trip-spring-boot-rest-api           | plugin     | [trip-spring-boot-rest-api](https://github.com/GoingRoute/trip-spring-boot-rest-api)    |
-| trip-spring-boot-mongo-db-app       | app        | [trip-spring-boot-mongo-db-app](https://github.com/GoingRoute/trip-spring-boot-mongo-db-app) |
-| trip-spring-boot-in-memory-db-app   | app        | [trip-spring-boot-in-memory-db-app](https://github.com/GoingRoute/trip-spring-boot-in-memory-db-app) |
+### Current Versions
+| Repository                          | Type       | Link                                | Part | 
+|-------------------------------------|------------|-------------------------------------|------|
+| trip-core                           | core-lib   | [trip-core](https://github.com/GoingRoute/trip-core)     | backend |
+| trip-persistence-mongo-db           | plugin     | [trip-persistence-mongo-db](https://github.com/GoingRoute/trip-persistence-mongo-db)   | backend |
+| trip-persistence-in-memory-db       | plugin     | [trip-persistence-in-memory-db](https://github.com/GoingRoute/trip-persistence-in-memory-db) | backend |
+| trip-spring-boot-rest-api           | plugin     | [trip-spring-boot-rest-api](https://github.com/GoingRoute/trip-spring-boot-rest-api)    | backend |
+| trip-spring-boot-mongo-db-app       | app        | [trip-spring-boot-mongo-db-app](https://github.com/GoingRoute/trip-spring-boot-mongo-db-app) | backend |
+| trip-spring-boot-in-memory-db-app   | app        | [trip-spring-boot-in-memory-db-app](https://github.com/GoingRoute/trip-spring-boot-in-memory-db-app) | backend |
+| frontend-nextjs                | GUI for trip application for web clients | [frontend-nextjs](https://github.com/GoingRoute/frontend-nextjs)      | frontend |
 
-## Old Version(multi-project build)
+### Old Versions
+| Repository                             | Type       | Link                                | Part | 
+|-------------------------------------|------------|-------------------------------------| ----- |
+| trip                           | multi-component repository with core, app and plugins | [trip](https://github.com/GoingRoute/trip)      | backend |
+| frontend-reactjs                | GUI for trip application for web clients | [frontend-reactjs](https://github.com/GoingRoute/frontend-reactjs)      | frontend |
 
-| Project                             | Type       | Link                                |
-|-------------------------------------|------------|-------------------------------------|
-| trip                           | multi-project build with core, several app and plugins together | [trip](https://github.com/GoingRoute/trip)      |
+### Tools
+| Repository                             | Type       | Link                                | Part | 
+|-------------------------------------|------------|-------------------------------------| ----- |
+| code-interpreter                       | Langchain and chat GPT to talk with the interpreter about project's code | [code-interpreter](https://github.com/GoingRoute/code-interpreter)     | CLI |
