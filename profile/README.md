@@ -13,7 +13,7 @@
 | trip-spring-boot-rest-api           | plugin     | [trip-spring-boot-rest-api](https://github.com/GoingRoute/trip-spring-boot-rest-api)    | backend |
 | trip-spring-boot-mongo-db-app       | app        | [trip-spring-boot-mongo-db-app](https://github.com/GoingRoute/trip-spring-boot-mongo-db-app) | backend |
 | trip-spring-boot-in-memory-db-app   | app        | [trip-spring-boot-in-memory-db-app](https://github.com/GoingRoute/trip-spring-boot-in-memory-db-app) | backend |
-| frontend-nextjs                | GUI for trip application for web clients | [frontend-nextjs](https://github.com/GoingRoute/frontend-nextjs)      | frontend |
+| frontend                            | GUI for trip application for web clients | [frontend](https://github.com/GoingRoute/frontend)      | frontend |
 
 ### Old Versions
 | Repository                             | Type       | Link                                | Part | 
