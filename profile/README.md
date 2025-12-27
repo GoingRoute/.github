@@ -1,14 +1,25 @@
 # Going Route 
-
 ## Welcome to our repositories Overview👋
 
-🙋‍♀️ Please find below all our Goingroute Projects and its repositories available
+🙋‍♀️ Please find below all our GoingRoute Projects and its repositories available
 
-### Current Versions
-| Repository                          | Type       | Link                                | Part | 
-|-------------------------------------|------------|-------------------------------------|------|        
-| frontend                            | GUI for trip application for web clients | [frontend](https://github.com/GoingRoute/frontend)      | frontend |
-| trips-collector                     | Trips data collector | [trips-collector](https://github.com/GoingRoute/trips-collector)            | trips-collector |  
+### Application
+| Repository | Description | Link |
+|------------|-------------|------|
+| nothingplan-web | Next.js web application | [nothingplan-web](https://github.com/GoingRoute/nothingplan-web) |
 
+### Data Collectors
+| Repository | Description | Link |
+|------------|-------------|------|
+| events-collector | Event data scraper and enricher | [events-collector](https://github.com/GoingRoute/events-collector) |
+| trips-collector | Trips and attractions data collector | [trips-collector](https://github.com/GoingRoute/trips-collector) |
 
+### Data Modelling
+| Repository | Description | Link |
+|------------|-------------|------|
+| nothingplan-dbt | dbt transformations for data warehouse | [nothingplan-dbt](https://github.com/GoingRoute/nothingplan-dbt) |
 
+### Scheduler
+| Repository | Description | Link |
+|------------|-------------|------|
+| nothingplan-scheduler | Prefect-based pipeline orchestration | [nothingplan-scheduler](https://github.com/GoingRoute/nothingplan-scheduler) |
