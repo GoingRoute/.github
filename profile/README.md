@@ -1,7 +1,7 @@
-# Going Route 
+# GoingRoute
 ## Welcome to our repositories Overview👋
 
-🙋‍♀️ Please find below all our GoingRoute Projects and its repositories available
+🙋‍♀️ Please find below all our NothingPlan Projects and its repositories available
 
 ### Application
 | Repository | Description | Link |
