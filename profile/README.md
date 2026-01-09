@@ -1,4 +1,4 @@
-# GoingRoute
+# NothingPlan
 ## Welcome to our repositories Overview👋
 
 🙋‍♀️ Please find below all our NothingPlan Projects and its repositories available
